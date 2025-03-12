@@ -1,5 +1,5 @@
 deployment:
   replicas: 3
-  imageVersion: lastable-perltest
+  imageVersion: stable-perl
 service: 
   nodePort: 30007
